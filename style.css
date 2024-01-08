@@ -70,7 +70,7 @@ body{
 
 /* section2 */
 .section2{
-    background: url(/images/bg.jpg);
+    background: url(images/bg.jpg);
     height: 500px;
     background-position: center;
     background-size: cover;
@@ -191,7 +191,7 @@ body{
     transition: 0.5s;
 }
 .section3 .s3bg1{
-    background: url(/images/bg1.jpg);
+    background: url(images/bg1.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -202,7 +202,7 @@ body{
 }
 
 .section3 .s3bg2{
-    background: url(/images/bg2.jpg);
+    background: url(images/bg2.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -213,7 +213,7 @@ body{
 }
 
 .section3 .s3bg3{
-    background: url(/images/bg3.jpg);
+    background: url(images/bg3.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -223,7 +223,7 @@ body{
     height: 220px;
 }
 .section3 .s3bg4{
-    background: url(/images/bg4.jpg);
+    background: url(images/bg4.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -233,7 +233,7 @@ body{
     height: 220px;
 }
 .section3 .s3bg5{
-    background: url(/images/bg5.jpg);
+    background: url(images/bg5.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -451,7 +451,7 @@ body{
 }
 .section4 .s4bg1{
     height: 220px;
-    background: url(/images/p1.jpg);
+    background: url(images/p1.jpg);
     background-size: cover;
     background-size: cover;
     padding: 15px;
@@ -462,7 +462,7 @@ body{
 }
 .section4 .s4bg2{
     height: 220px;
-    background: url(/images/p2.jpg);
+    background: url(images/p2.jpg);
     background-size: cover;
     background-size: cover;
     padding: 15px;
@@ -473,7 +473,7 @@ body{
 }
 .section4 .s4bg3{
     height: 220px;
-    background: url(/images/p3.jpg);
+    background: url(images/p3.jpg);
     background-size: cover;
     background-size: cover;
     padding: 15px;
@@ -484,7 +484,7 @@ body{
 }
 .section4 .s4bg4{
     height: 220px;
-    background: url(/images/p4.jpg);
+    background: url(images/p4.jpg);
     background-size: cover;
     background-size: cover;
     padding: 15px;
@@ -531,7 +531,7 @@ body{
 
 /* section5 */
 .section3 .s3bg11{
-    background: url(/images/q1.jpg);
+    background: url(images/q1.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -542,7 +542,7 @@ body{
 }
 
 .section3 .s3bg22{
-    background: url(/images/q5.jpg);
+    background: url(images/q5.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -553,7 +553,7 @@ body{
 }
 
 .section3 .s3bg33{
-    background: url(/images/q6.jpg);
+    background: url(images/q6.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -563,7 +563,7 @@ body{
     height: 220px;
 }
 .section3 .s3bg44{
-    background: url(/images/q4.jpg);
+    background: url(images/q4.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -573,7 +573,7 @@ body{
     height: 220px;
 }
 .section3 .s3bg55{
-    background: url(/images/q8.jpg);
+    background: url(images/q8.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: inset 10px -47px 73px -4px rgba(16,16,16,1);
@@ -608,7 +608,7 @@ body{
 .section4 .s6bg{
     width: 100%;
     height: 300px;
-    background: url(/images/bg3.jpg);
+    background: url(images/bg3.jpg);
     background-size: cover;
     background-position: center;
     transition: 0.5s;
@@ -622,7 +622,7 @@ body{
 .section4 .s61bg{
     width: 100%;
     height: 300px;
-    background: url(/images/bg4.jpg);
+    background: url(images/bg4.jpg);
     background-size: cover;
     background-position: center;
     transition: 0.5s;

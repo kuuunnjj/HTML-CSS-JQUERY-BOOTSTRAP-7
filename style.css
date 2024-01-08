@@ -85,7 +85,7 @@ body{
     padding-top: 70px;
 }
 .section2 .b1{
-    width: 60px;
+    width: 65px;
     height: 28px;
     background-color: rgb(138,43,226);
     border: none;
@@ -95,7 +95,7 @@ body{
     font-size: 13px;
 }
 .section2 .b2{
-    width: 110px;
+    width: 120px;
     height: 26px;
     background-color: rgb(255, 255, 255);
     border: none;
@@ -249,7 +249,7 @@ body{
     transition: 0.5s;
 }
 .section3 .b1{
-    width: 60px;
+    width: 65px;
     height: 28px;
     background-color: rgb(138,43,226);
     border: none;
@@ -494,7 +494,7 @@ body{
     transition: 0.5s;
 }
 .section4 .b1{
-    width: 60px;
+    width: 65px;
     height: 28px;
     background-color: rgb(0,0,255);
     border: none;
@@ -504,7 +504,7 @@ body{
     font-size: 13px;
 }
 .section4 .b2{
-    width: 100px;
+    width: 120px;
     height: 26px;
     background-color: rgb(255, 255, 255);
     border: none;
